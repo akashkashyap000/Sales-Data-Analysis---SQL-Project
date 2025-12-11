@@ -482,8 +482,8 @@ FROM dual;
 -- PROJECT COMPLETION NOTES
 -- ===========================================
 /*
-ANALYSIS COMPLETED BY: [Your Name]
-DATE: CURRENT_DATE()
+ANALYSIS COMPLETED BY: [Kashyap Akash]
+DATE: CURRENT_DATE(11/12/2025)
 TOOLS USED: MySQL, Excel for visualization, Tableau for dashboard
 TIME TAKEN: 3 days for complete analysis
 NEXT STEPS: 
