@@ -56,8 +56,7 @@ Complete SQL analysis of sales database to derive business insights for data-dri
 ## 📞 Contact & Connect
 **Your Name**  
 📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-💼 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+🔗 LinkedIn: www.linkedin.com/in/akash-kashyap-74141639b 
 
 ---
 ⭐ **If you find this project useful, please give it a star!**
