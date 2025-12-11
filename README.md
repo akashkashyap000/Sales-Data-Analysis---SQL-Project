@@ -54,8 +54,8 @@ Complete SQL analysis of sales database to derive business insights for data-dri
 3. Modify queries as per your database structure
 
 ## 📞 Contact & Connect
-**Your Name**  
-📧 Email: your.email@example.com  
+Kashyap Akash
+📧 Email: akashkashyap2799@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/akash-kashyap-74141639b 
 
 ---
